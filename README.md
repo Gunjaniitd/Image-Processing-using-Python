@@ -1,4 +1,4 @@
-Image-Processing-using-Python
+# Image-Processing-using-Python
 
 This folder contains :
 i) processing.py - Contains the code along with explanation as comments
